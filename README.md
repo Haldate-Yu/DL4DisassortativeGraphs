@@ -7,9 +7,12 @@ Disassortative graphs refer to those with a low node homophily. In disassortativ
 
 **Please feel free to submit a pull request if you want to add good papers.**
 
+SURVEY
+* [Arxiv 2023] **Graph Neural Networks for Graphs with Heterophily: A Survey** [[Paper]](https://arxiv.org/abs/2202.07082)
+
 2023
 ----
-* [ICLR_2023] **The Impact of Neighborhood Distribution in Graph Convolutional Networks** [[Paper]](https://openreview.net/forum?id=XUqTyU9VlWp)
+* [ICLR 2023] **The Impact of Neighborhood Distribution in Graph Convolutional Networks** [[Paper]](https://openreview.net/forum?id=XUqTyU9VlWp) - [Potential Neighbors]
 
 2022
 ----
@@ -39,6 +42,14 @@ Disassortative graphs refer to those with a low node homophily. In disassortativ
 2020
 ----
 * [NeurIPS 2020] **Beyond Homophily in Graph Neural Networks: Current Limitations and Effective Designs** [[Paper]](https://arxiv.org/abs/2006.11468)[[Code]](https://github.com/GemsLab/H2GCN)
-* [ICML 2020] **Simple and Deep Graph Convolutional Networks** [[Paper]](https://arxiv.org/abs/2007.02133)[[Code]](https://github.com/chennnM/GCNII)
+* [ICML 2020] **Simple and Deep Graph Convolutional Networks** [[Paper]](https://arxiv.org/abs/2007.02133)[[Code]](https://github.com/chennnM/GCNII) - [Inter-layer Combination]
 * [KDD 2020] **Residual Correlation in Graph Neural Network Regression** [[Paper]](https://arxiv.org/abs/2002.08274)[[Code]](https://github.com/000Justin000/gnn-residual-correlation)
-* [ICLR 2020] **Geom-GCN: Geometric Graph Convolutional Networks** [[Paper]](https://openreview.net/forum?id=S1e2agrFvS)[[Code]](https://github.com/graphdml-uiuc-jlu/geom-gcn)
+* [ICLR 2020] **Geom-GCN: Geometric Graph Convolutional Networks** [[Paper]](https://openreview.net/forum?id=S1e2agrFvS)[[Code]](https://github.com/graphdml-uiuc-jlu/geom-gcn) - [Potential Neighbors]
+
+2019
+----
+* [ICML 2019] ** ** [[Paper]](http://proceedings.mlr.press/v97/abu-el-haija19a.html)[[Code]](https://github.com/benedekrozemberczki/MixHop-and-N-GCN) - [High-order Neighbors]
+
+2018
+----
+* [ICML 2018] **Representation learning on graphs with jumping knowledge networks** [[Paper]](http://proceedings.mlr.press/v80/xu18c.html)[[Code]](https://github.com/dmlc/dgl/tree/master/examples/pytorch/jknet) - [Inter-layer Combination]
