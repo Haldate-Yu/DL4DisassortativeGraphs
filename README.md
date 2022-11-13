@@ -9,6 +9,7 @@ Disassortative graphs refer to those with a low node homophily. In disassortativ
 
 SURVEY
 * [Arxiv 2023] **Graph Neural Networks for Graphs with Heterophily: A Survey** [[Paper]](https://arxiv.org/abs/2202.07082)
+![Classification](./Classification.png)
 
 2023
 ----
