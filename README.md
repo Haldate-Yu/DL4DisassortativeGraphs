@@ -21,7 +21,7 @@ SURVEY
 * [AAAI 2022] **Powerful Graph Convolutioal Networks with Adaptive Propagation Mechanism for Homophily and Heterophily** [[Paper]](https://arxiv.org/abs/2112.13562) - [Potential Neighbors] 
 * [AAAI 2022] **Block Modeling-Guided Graph Convolutional Neural Networks** [[Paper]](https://arxiv.org/abs/2112.13507) [[Code]](https://github.com/hedongxiao-tju/BM-GCN) - [Potential Neighbors + Ego-neighbor Separation]
 * [AAAI 2022] **Graph pointer neural networks** [[Paper]](https://arxiv.org/abs/2110.00973) - [Potential Neighbors + Message Aggregation]
-* [WWW 2022] **GBK-GNN: Gated Bi-Kernel Graph Neural Networks for Modeling Both Homophily and Heterophily** [[Paper]](https://arxiv.org/abs/2110.15777) [[Code]](https://github.com/Xzh0u/GBK-GNN)
+* [WWW 2022] **GBK-GNN: Gated Bi-Kernel Graph Neural Networks for Modeling Both Homophily and Heterophily** [[Paper]](https://arxiv.org/abs/2110.15777) [[Code]](https://github.com/Xzh0u/GBK-GNN) - [Message Aggregation]
 * [ICLR 2022] **Is Homophily a Necessity for Graph Neural Networks?** [[Paper]](https://openreview.net/forum?id=ucASPPD9GKN) 
 
 
