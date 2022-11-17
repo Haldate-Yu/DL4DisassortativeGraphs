@@ -14,11 +14,13 @@ SURVEY
 
 2023
 ----
-* [ICLR 2023] **The Impact of Neighborhood Distribution in Graph Convolutional Networks** [[Paper]](https://openreview.net/forum?id=XUqTyU9VlWp) - [Potential Neighbors]
+* [ICLR 2023] **The Impact of Neighborhood Distribution in Graph Convolutional Networks** [[Paper]](https://openreview.net/forum?id=XUqTyU9VlWp) - [Potential Neighbors + Message Aggregation]
 
 2022
 ----
-* [AAAI 2022] **Powerful Graph Convolutioal Networks with Adaptive Propagation Mechanism for Homophily and Heterophily** [[Paper]](https://arxiv.org/abs/2112.13562) 
+* [AAAI 2022] **Powerful Graph Convolutioal Networks with Adaptive Propagation Mechanism for Homophily and Heterophily** [[Paper]](https://arxiv.org/abs/2112.13562) - [Potential Neighbors] 
+* [AAAI 2022] **Block Modeling-Guided Graph Convolutional Neural Networks** [[Paper]](https://arxiv.org/abs/2112.13507) [[Code]](https://github.com/hedongxiao-tju/BM-GCN) - [Potential Neighbors + Ego-neighbor Separation]
+* [AAAI 2022] **Graph pointer neural networks** [[Paper]](https://arxiv.org/abs/2110.00973) - [Potential Neighbors + Message Aggregation]
 * [WWW 2022] **GBK-GNN: Gated Bi-Kernel Graph Neural Networks for Modeling Both Homophily and Heterophily** [[Paper]](https://arxiv.org/abs/2110.15777) [[Code]](https://github.com/Xzh0u/GBK-GNN)
 * [ICLR 2022] **Is Homophily a Necessity for Graph Neural Networks?** [[Paper]](https://openreview.net/forum?id=ucASPPD9GKN) 
 
